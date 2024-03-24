@@ -1,0 +1,7 @@
+# VigiaMente - Banco de Dados
+
+O projeto VigiaMente tem como objetivo desenvolver uma aplicação web que vincula contas do X e identifica potenciais sinais de risco suicida nos posts dessas contas. Ao oferecer uma plataforma para analisar comportamentos online relacionados à saúde mental, o VigiaMente não apenas permite intervenções precoces, mas também fornece ferramentas valiosas para psicólogos monitorarem seus pacientes de forma eficaz e confidencial.
+
+Este repositório contém os arquivos e recursos relacionados ao banco de dados do projeto VigiaMente, construído com MongoDB. Aqui, você encontrará os esquemas, scripts de inicialização, consultas e outros elementos necessários para armazenar e gerenciar os dados utilizados no treinamento do modelo de Machine Learning e no funcionamento da aplicação web.
+
+Este projeto é fruto do curso de Projeto Integrador de Sistemas, uma disciplina que visa integrar conhecimentos teóricos e práticos adquiridos ao longo do curso de graduação. Desenvolvido de forma colaborativa pelos alunos Lucas Machado, Rhuan Magalhães e Thácito Raboni, sob a orientação e supervisão do professor Diego Cardoso, o projeto busca aplicar habilidades e técnicas aprendidas em sala de aula na criação de uma solução prática e inovadora.
